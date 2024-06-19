@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kratisa&label=Profile%20views&color=0e75b6&style=flat" alt="kratisa" /> </p>
 
-- 🔭 I’m currently working on **PawSacan**
+- 🔭 I’m currently working on **PawScan**
 
 - 🌱 I’m currently learning **Frameworks.**
 
