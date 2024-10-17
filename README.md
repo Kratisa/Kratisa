@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kratisa Srivastava</h1> <h3 align="center">A Passionate Frontend Developer</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=kratisa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<h1 align="center">Hi,I'm Kratisa Srivastava</h1> <h3 align="center">A Passionate Frontend Developer</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=kratisa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kratisa&label=Profile%20views&color=0e75b6&style=flat" alt="kratisa" /> </p>
 
 - 🔭 I’m currently working on **PawScan**
